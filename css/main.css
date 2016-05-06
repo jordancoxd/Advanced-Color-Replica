@@ -1,0 +1,455 @@
+html, body {
+	width: 100%;
+
+}
+
+body {
+	padding: 0;
+	margin: 0;
+	font-family:'Libre Baskerville'; 
+}
+
+.nav1 {
+	background-color: #A3CFD8;
+	height: 500px;
+	width: 100%;
+	
+}
+
+.topNav-1 {
+	display: inline-block;
+	float: left;
+	margin-left: 10%;
+}
+
+.topNav-1 img {
+	padding-top: 15px;
+}
+.topNav-1 h4 {
+	font-size: 20px;
+	
+}
+
+.topNav-1a {
+	display: inline-block;
+	float: right;
+	padding: 0;
+	margin-right: 13%;
+
+
+}
+
+.topNav-1a li {
+	display: inline-block;
+	float: right;
+	margin: 10px 20px;
+	padding: 4px 5px;
+	text-decoration: none;
+}
+
+.topNav-1a li:hover {
+	background-color: #38464B;
+	display: inline-block;
+	border-radius: 3px;
+	padding: 4px 5px;
+
+}
+
+
+.topNav-1a li a {
+	margin: 10px 5px;
+	text-decoration: none;
+	color: black;
+}
+
+.thisTemplate {
+	background-color: #A3CFD8;
+	width: 100%;
+	margin: 40px;
+	display: inline-block;
+	
+}
+.thisTemplate h1 {
+	display: inline-block;
+	float: left;
+	font-size: 35px;
+	padding: 20px 0 20px 50px;
+	width: 40%;
+	text-align: center;
+	color: #FDFDFD;
+}
+.iMac {
+	margin: 0;
+	padding: 0;
+	width: 100%;
+
+}
+.iMac img {
+	display: inline-block;
+	height: 250px;
+	width: 30%;
+	padding-left: 40px;
+
+}
+
+.macBottom {
+	display: inline-block;
+	width: 100%;
+	height: 220px;
+	margin: 25px 0 100px 160px;
+	text-decoration: none;
+}
+
+.fd {
+	text-align: center;
+	display: inline-block;
+	width: 22%;
+	float: left;
+	margin-top: 30px;
+	height: 10px;
+}
+
+.lightBulb {
+	text-align: center;
+	display: inline-block;
+	width: 22%;
+	margin: 10px 40px 15px 50px;
+}
+
+.bComp {
+	text-align: center;
+	display: inline-block;
+	width: 22%;
+	margin: 0 auto;
+}
+
+.r-works {
+	display: inline-block;
+	height: 800px;
+	background-color: #99D2A5;
+	display: inline-block;
+	width: 100%;
+
+}
+
+.r-works h1 {
+	text-align: center;
+	margin: 40px 0 0 0;
+}
+
+.r-works p {
+	text-align: center;
+	width: 39%;
+	margin-left: 380px;
+}
+
+.topNav2 {
+	margin: 0;
+	padding: 0;
+	
+}
+.recentWorks {
+	text-align: center;
+	padding: 0;
+}
+.recentWorks li {
+	display: inline-block;
+	margin-left: 44px; 
+
+
+}
+
+.recentWorks li a {
+	margin: 0;
+	text-decoration: none;
+	padding: 0px;
+	color: #232323;
+
+
+}
+
+.animatedPics {
+	display: inline-block;
+	padding: 10px 10px;
+	margin-left: 70px;
+	width: 100%;
+
+}
+.animatedPics .box {
+	display: inline-block;
+    width: 28%;
+    padding:10px;
+    margin: 10px 0 0 20px;
+    font-weight: 400;
+}
+
+.buttonW {
+	display: block;
+	margin: 30px 0 20px 480px;
+	height: 34px;	
+	width: 7%;
+	border-style: none;
+	background-color: #FBFCFB;
+	border-radius: 3px;
+
+}
+.layered {
+	display: inline-block;
+	height: 600px;
+	background-color: #F0F0F0;
+}
+.layered-top {
+	display: inline-block;
+	padding: 0;
+	margin: 0;
+	height: 240px;
+	width: 100%;
+
+}
+.layered-top img {
+	float: right;
+	padding-top: 40px;
+}
+.sameImage {
+	display: inline-block;
+	padding: 0;
+	float: left;
+	margin: 0;
+	height: 200px;
+	width: 35%;
+}
+
+.layered-bottom .layered-neatly img {
+	float: left;
+	padding-top: 100px;
+	padding-right: 100px;
+}
+
+.layered-bottom .layered-neatly{
+	float: left;
+	padding-left: 100px;
+
+}
+
+.layered-neatly {
+	display: inline-block;
+	padding: 0;
+	margin: 0 0 0 150px;
+	width: 50%;
+	float: right;
+	height: 200px;
+	text-align: left;
+}
+.layered-neatly h3 {
+	display: inline-block;
+	float:left;
+	text-align: left;
+	margin-top: 50px; 
+}
+.layered-neatly p {
+	padding: 0;
+	text-align: left;
+	float: right;
+	display: inline-block;
+	width: 60%;
+	margin-right: 255px;
+}
+
+
+.buttonG {
+	display: inline-block;
+	float: left;
+	padding: 5px 5px 5px 5px;
+	width: 15%;
+	height: 30px;
+	border-style: none;
+	background-color: #99D2A5;
+	border-radius: 3px;
+}
+
+hr {
+	display: block;
+}
+
+.layered-bottom {
+	display: inline-block;
+	margin: 0;
+	padding: 0;
+	width: 100%;
+}
+
+.buttonB {
+	display: inline-block;
+	margin-bottom: 10px;
+	float: left;
+	padding: 5px 5px 5px 5px;
+	width: 15%;
+	height: 30px;
+	border-style: none;
+	background-color: #A4D0D9;
+	border-radius: 3px;
+
+}
+
+.meet-our-team {
+	display: inline-block;
+	padding: 20px ;
+	background-color: #EC9CBD;
+	width: 100%;
+	text-align: center;
+}
+.meet h1 {
+	color: #FDFDFD;
+}
+
+.meet p {
+	display: inline-block;
+	margin: 0;
+	padding: 10px 20px 50px 20px 
+}
+
+.johnSmith-1 {
+	padding: 0;
+	margin: 10px 20px 10px 20px;
+	width: 100%;
+	text-align: center;
+}
+.johnSmith {
+	display: inline-block;
+	width: 20%;
+	margin: 30px;
+	padding-bottom: 40px;
+	background-color: #FDFDFD;
+	text-align: center;
+
+}
+.johnSmith img {
+	display: inline-block;
+	padding: 0;
+	margin: 0 auto;
+}
+.johnSmith p {
+	display: inline;
+	margin: 0;
+	
+}
+.johnSmith h3 {
+	margin: 10px 20px;
+
+}
+.johnSmith h2 {
+	 
+	background-color: #FDFDFD;
+}
+
+.recentPosts {
+	display: inline-block;
+	width: 100%;
+	padding: 0;
+	margin: 0;
+	background-color: #B2D2DD;
+}
+
+.recent {
+	display: inline;
+	text-align: center;
+	padding: 20px;
+	width: 100%;
+	color: #FDFDFD;
+}
+
+.interesting-1 {
+	width: 100%;
+	padding: 0;
+	margin: 10px 40px 10px 40px;
+}
+
+.interestingPosts {
+	display: inline-block;
+	width: 25%;
+	padding: 30px 10px 50px 10px;
+	margin: 30px;
+	text-align: center;
+	background-color: #FDFDFD;
+}
+ .interestingPosts img {
+ 	display: inline-block;
+ 	padding: 0;
+ 	margin: 0;
+ }
+
+.interestingPosts .date {
+	display: block;
+	text-align: center;
+	margin: 0 auto;
+	padding: 5px 0 10px 0;
+}
+ .interestingPosts p {
+ 	display: inline;
+ 	text-align: center;
+ 	margin: 0;
+ }
+ .buttonWB {
+ 	width: 8%;
+ 	padding: 8px 2px 8px 2px;
+ 	margin: 30px 0 30px 540px;
+ 	border-style: none;
+ 	border-radius: 3px;
+ }
+
+.IP {
+ 	width: 100%;
+ 	padding:20px 20px 40px 20px;
+ 	display: inline-block;
+ 	background-color: #3C3C3C;
+ 	text-align: center;
+ 	height: 500px;
+ }
+
+ .IP {
+ 	display: block;
+ 	text-align: center;
+
+ }
+
+ .contacts {
+ 	color: #FDFDFD;
+
+ }
+ .contacts p {
+ 	display: block;
+ 	padding: 10px;
+ 	text-align: center;
+
+ }
+
+ .advancedForm {
+ 	display: inline;
+ 	margin: 0 auto;
+ 	padding: 0 35px 0px 35px;
+ 	width: 100%;
+ 	background-color: #FDFDFD;
+
+ }
+
+
+form input {
+	margin: 0 auto;
+	padding: 5px 0 10px 0;
+    display: block;
+    width: 50%;
+}
+
+form textarea {
+	margin: 0 auto;
+	display: block;
+	width: 50%;
+}
+
+
+.buttonLast {
+	padding: 10px;
+	display: inline;
+	text-align: center;
+	margin-top: 20px;
+}
